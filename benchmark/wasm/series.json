@@ -7,10 +7,10 @@
       "label": "Main",
       "path": "series/main/main/summary.json",
       "configPath": "series/main/main/config.json",
-      "commitPath": "commits/5928702c88c9997ad7be70ef7bd1a024b209f5c7.json",
-      "sha": "5928702c88c9997ad7be70ef7bd1a024b209f5c7",
-      "sourceUrl": "https://github.com/parhelia512/llgo/commit/5928702c88c9997ad7be70ef7bd1a024b209f5c7",
-      "updatedAt": "2026-09-18T14:23:51.259Z"
+      "commitPath": "commits/ddd8a286bcea275e9a01b46a6321bed79c6f35c3.json",
+      "sha": "ddd8a286bcea275e9a01b46a6321bed79c6f35c3",
+      "sourceUrl": "https://github.com/parhelia512/llgo/commit/ddd8a286bcea275e9a01b46a6321bed79c6f35c3",
+      "updatedAt": "2026-09-19T06:00:44.255Z"
     }
   ]
 }
